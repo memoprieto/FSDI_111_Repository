@@ -9,7 +9,7 @@ def index():
     me = {
         "First_name":"Guillermo",
         "Last_name":"Prieto",
-        "Email":"memoprieto79@hotmail.com",
+        "Email":"memoprieto79@hotmail.comm",
         "active": True
     }
     return me
